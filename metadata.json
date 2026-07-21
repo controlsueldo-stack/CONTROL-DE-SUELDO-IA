@@ -1,0 +1,6 @@
+{
+  "name": "Sueldo Seguro AI",
+  "description": "Asistente experto en la liquidación de sueldos bajo el Convenio Colectivo de Trabajo de Seguridad Privada (CCT 507/07) de Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
